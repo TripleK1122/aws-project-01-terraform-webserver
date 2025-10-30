@@ -52,6 +52,7 @@ Hello from AWS Project 01 - Terraform Web Server
 
 
 🧹 Cleanup
+
 terraform destroy 
 
 
